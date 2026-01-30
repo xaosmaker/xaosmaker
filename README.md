@@ -33,7 +33,7 @@ I keep detailed READMEs in each repo — check them out for architecture, code, 
 
 ## 📫 Contact Me
 
-- Email: [drososD@proton.me](mailto:drososD@proton.me)
+- Email: [drosinakis.drosos1@gmail.com](mailto:drosinakis.drosos1@gmail.com)
 - Portfolio: [drosinakis.com](https://drosinakis.com)
 
 ---
